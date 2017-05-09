@@ -39,8 +39,8 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2641</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/100860848</dc:source>
-		<meta property="se:word-count">WORDCOUNT</meta>
-		<meta property="se:reading-ease.flesch">READINGEASE</meta>
+		<meta property="se:word-count">68032</meta>
+		<meta property="se:reading-ease.flesch">76.32</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/A_Room_with_a_View</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/e-m-forster_a-room-with-a-view</meta>
 		<dc:creator id="author">E. M. Forster</dc:creator>
@@ -49,11 +49,10 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/E._M._Forster</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79091231</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVERARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVERARTISTSORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">WIKILINK</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">NACOAFLINK</meta>
-		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
+		<dc:contributor id="artist">Jean-Baptiste-Camille Corot</dc:contributor>
+		<meta property="file-as" refines="#artist">Corot, Jean-Baptiste-Camille</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Jean-Baptiste-Camille_Corot</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n50020661</meta>
 		<dc:contributor id="transcriber-1">An Anonymous Volunteer</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Anonymous Volunteer, An</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
