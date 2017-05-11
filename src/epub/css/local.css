@@ -23,6 +23,11 @@ abbr.name{
 	display: none;
 }
 
+p span.i1{
+	text-indent: -1em;
+	padding-left: 2em;
+}
+
 [epub|type~="z3998:letter"] header,
 [epub|type~="z3998:letter"] footer{
 	text-align: right;
