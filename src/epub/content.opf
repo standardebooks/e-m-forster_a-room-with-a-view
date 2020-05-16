@@ -47,7 +47,7 @@
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">A young English woman falls in love while on tour in Italy.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;i&gt;A Room With a View&lt;/i&gt;, perhaps E. M. Forster’s lightest novel, was also one long in gestation—he began it as early as 1901, and only published it in 1908.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;A Room With a View&lt;/i&gt;, perhaps &lt;a href="https://standardebooks.org/ebooks/e-m-forster"&gt;&lt;abbr&gt;E. M.&lt;/abbr&gt; Forster’s&lt;/a&gt; lightest novel, was also one long in gestation—he began it as early as 1901, and only published it in 1908.&lt;/p&gt;
 			&lt;p&gt;In it we meet young Lucy Honeychurch and her cousin Charlotte Bartlett, who have gone on tour to Italy. During their stay they meet a series of interesting characters, including George Emerson, the son of an eccentric gentleman. The conflict between Lucy’s choice of the unusual George, or the her more conventional English suitor Cecil, forms the crux of Forster’s critique of contemporary English society.&lt;/p&gt;
 			&lt;p&gt;Despite the novel being a societal critique, the prose is light and studded with Forster’s easy witticisms. In 1958 Forster added an appendix elaborating on what occurred to the main characters after the novel’s end: the two world wars figure largely in their futures.&lt;/p&gt;
 		</meta>
