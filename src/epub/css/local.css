@@ -42,8 +42,3 @@ p span.i1{
 [epub|type~="z3998:salutation"] + p{
 	text-indent: 0;
 }
-
-span[epub|type~="subtitle"]{
-	display: block;
-	font-weight: normal;
-}
