@@ -61,7 +61,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2641</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/100860848</dc:source>
-		<meta property="se:word-count">68032</meta>
+		<meta property="se:word-count">68038</meta>
 		<meta property="se:reading-ease.flesch">76.22</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/A_Room_with_a_View</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/e-m-forster_a-room-with-a-view</meta>
