@@ -52,7 +52,7 @@
 		<meta id="collection-2" property="belongs-to-collection">The BBC’s 100 Greatest British Novels (2015)</meta>
 		<meta property="collection-type" refines="#collection-2">set</meta>
 		<meta property="group-position" refines="#collection-2">32</meta>
-		<dc:abstract>A young English woman falls in love while on tour in Italy.</dc:abstract>
+		<meta property="schema:abstract">A young English woman falls in love while on tour in Italy.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;i&gt;A Room With a View&lt;/i&gt;, perhaps &lt;a href="https://standardebooks.org/ebooks/e-m-forster"&gt;&lt;abbr&gt;E. M.&lt;/abbr&gt; Forster’s&lt;/a&gt; lightest novel, was also one long in gestation—he began it as early as 1901, and only published it in 1908.&lt;/p&gt;
 			&lt;p&gt;In it we meet young Lucy Honeychurch and her cousin Charlotte Bartlett, who have gone on tour to Italy. During their stay they meet a series of interesting characters, including George Emerson, the son of an eccentric gentleman. The conflict between Lucy’s choice of the unusual George, or her more conventional English suitor Cecil, forms the crux of Forster’s critique of contemporary English society.&lt;/p&gt;
